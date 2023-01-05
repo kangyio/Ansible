@@ -1,3 +1,3 @@
 # Ansible
 
-![alt text](Ogatak about page.png)
+![My Image](Ogatak.png)
